@@ -10,3 +10,14 @@
 - 盒友XXX：需要将鱿鱼作为shark的捕食目标和食谱
 - 盒友XXX：颚鱼掉落的颚鱼肉不在shark食谱中，需要估算卡路里值然后添加进入食谱。
 - 盒友XXX：shark单口只吃下1000千卡，颚鱼有12000千卡，盒友希望增大胃袋并调整进食判定的阈值，确保一口能吃下整条颚鱼
+
+<br>
+
+### 项目部署步骤
+1、下载项目
+2、使用VS打开，并重新添加引用，匹配你本机的引用路径
+3、dll依赖在ONI文件夹中的：OxygenNotIncluded\OxygenNotIncluded_Data\Managed
+4、PLib.dll包含在工坊Mod文件夹中，下载后引用即可
+5、修改项目重新编译
+6、使用生成的新shark.dll替换工坊文件夹中的shark.dll
+7、使用Oxygen Not Included Uploader上传你的Mod到工坊（该工具随ONI附赠，可在Steam库工具栏查看）
