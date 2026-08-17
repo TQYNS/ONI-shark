@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|d:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\dll\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\sharkbabyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\sharkbabyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\sharkbabynavgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\sharkbabynavgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\sharkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\sharkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\sharknavgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\sharknavgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\languagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\languagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\basesharkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\basesharkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\basesharkbabyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\basesharkbabyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\sharktuning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62AC53-240B-42DF-AF24-50A4E1FA6EB6}|shark\\shark.csproj|solutionrelative:shark\\sharktuning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patches.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Patches.cs",
+              "RelativeDocumentMoniker": "shark\\Patches.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Patches.cs",
+              "RelativeToolTip": "shark\\Patches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:15:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharkNavGrid.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkNavGrid.cs",
+              "RelativeDocumentMoniker": "shark\\SharkNavGrid.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkNavGrid.cs",
+              "RelativeToolTip": "shark\\SharkNavGrid.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:34:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseSharkConfig.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\BaseSharkConfig.cs",
+              "RelativeDocumentMoniker": "shark\\BaseSharkConfig.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\BaseSharkConfig.cs",
+              "RelativeToolTip": "shark\\BaseSharkConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJ8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:02:33.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Init.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Init.cs",
+              "RelativeDocumentMoniker": "shark\\Init.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Init.cs",
+              "RelativeToolTip": "shark\\Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:02:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharkBabyConfig.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkBabyConfig.cs",
+              "RelativeDocumentMoniker": "shark\\SharkBabyConfig.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkBabyConfig.cs",
+              "RelativeToolTip": "shark\\SharkBabyConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:38:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharkConfig.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkConfig.cs",
+              "RelativeDocumentMoniker": "shark\\SharkConfig.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkConfig.cs",
+              "RelativeToolTip": "shark\\SharkConfig.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:34:06.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageHelper.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\LanguageHelper.cs",
+              "RelativeDocumentMoniker": "shark\\LanguageHelper.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\LanguageHelper.cs",
+              "RelativeToolTip": "shark\\LanguageHelper.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:35:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Strings.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Strings.cs",
+              "RelativeDocumentMoniker": "shark\\Strings.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\Strings.cs",
+              "RelativeToolTip": "shark\\Strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:34:24.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharkBabyNavGrid.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkBabyNavGrid.cs",
+              "RelativeDocumentMoniker": "shark\\SharkBabyNavGrid.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkBabyNavGrid.cs",
+              "RelativeToolTip": "shark\\SharkBabyNavGrid.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T02:34:55.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SharkTuning.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkTuning.cs",
+              "RelativeDocumentMoniker": "shark\\SharkTuning.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\SharkTuning.cs",
+              "RelativeToolTip": "shark\\SharkTuning.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:32:19.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseSharkBabyConfig.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\BaseSharkBabyConfig.cs",
+              "RelativeDocumentMoniker": "shark\\BaseSharkBabyConfig.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u5DE5\u7A0B\u6587\u4EF6\\DLL\u9879\u76EE\u5DE5\u7A0B\u6587\u4EF6\u5305\\shark\\shark\\BaseSharkBabyConfig.cs",
+              "RelativeToolTip": "shark\\BaseSharkBabyConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:42:21.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
