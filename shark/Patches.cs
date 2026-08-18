@@ -136,7 +136,7 @@ namespace Shark
     {
         static bool Prefix(FetchableMonitor.Instance __instance, ref bool __result)
         {
-            //return true;//已排除
+            //return true;
             if (__instance == null || __instance.pickupable == null)
                 return true;
             if (__instance.pickupable.KPrefabID.PrefabTag.Name != SharkBabyConfig.ID)
