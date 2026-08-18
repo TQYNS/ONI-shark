@@ -22,6 +22,29 @@ namespace Shark
         }
     }
 
+    // 监视喂鱼器异常
+    [HarmonyPatch(typeof(FishFeeder), "OnStorageChange")]
+    public static class TraceFishFeederOnStorageChange
+    {
+        static void Prefix(FishFeeder.Instance __instance, object data)
+        {
+            Debug.Log($"[Trace] OnStorageChange on FishFeeder {__instance?.gameObject?.GetInstanceID()}");
+            Debug.Log(new System.Diagnostics.StackTrace().ToString());
+        }
+    }
+    // 监视喂鱼器异常
+    [HarmonyPatch(typeof(FishFeeder), "OnRefreshUserMenu")]
+    public static class TraceFishFeederOnRefreshUserMenu
+    {
+        static void Prefix(FishFeeder.Instance __instance, object data)
+        {
+            Debug.Log($"[Trace] OnRefreshUserMenu on FishFeeder {__instance?.gameObject?.GetInstanceID()}");
+            Debug.Log(new System.Diagnostics.StackTrace().ToString());
+        }
+    }
+
+
+
     [HarmonyPatch(typeof(Game), "OnPrefabInit")]
     public static class SharkNavGridPatch
     {
@@ -608,8 +631,19 @@ namespace Shark
     /// </summary>
     public static class SharkCaptureBindPatch
     {
+        //尝试Fix：轮询异常 Begin
+        private static float _lastExecTime = -1f;
+        private const float MIN_INTERVAL = 1f; // 每0.5秒检查一次
+        //尝试Fix：轮询异常 End
+
         public static void Postfix(object capturable, object capture_point, CavityInfo capture_cavity_info, ref bool __result)
         {
+            //尝试Fix：轮询异常 Begin
+            float now = Time.unscaledTime;
+            if (now - _lastExecTime < MIN_INTERVAL) return;
+            _lastExecTime = now;
+            //尝试Fix：轮询异常 End
+
             if (__result || capturable == null || capture_point == null)
                 return;
             StateMachine.Instance inst = capturable as StateMachine.Instance;
@@ -669,8 +703,7 @@ namespace Shark
                 System.Delegate cap = def.GetType().GetField("isAmountStoredOverCapacity", flags)
                     ?.GetValue(def) as System.Delegate;
                 bool capacityOk = cap == null || (bool)cap.DynamicInvoke(capture_point, capturable);
-                if (!capacityOk)
-                    Debug.Log("[SharkCapture] 容量判定不通过(已放行)");
+                if (!capacityOk) Debug.Log("[SharkCapture] 容量判定不通过(已放行)");
 
                 __result = true;
                 int pc = Grid.PosToCell(((StateMachine.Instance)capture_point).transform.position);
